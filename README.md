@@ -152,6 +152,13 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 - *Load Testing:* Simulating high traffic to ensure the system could handle peak usage.
 
 ---
+Test Cases
+1. TSC Seat Vacancy Tracking
+Test Case ID	Test Case Description	Input	Expected Output	Status (Pass/Fail)
+TSC-001	Check available seats	None	Display list of available seats	Pass
+TSC-002	Reserve a seat	Seat ID, time slot	Seat reserved successfully; confirmation displayed	Pass
+TSC-003	Reserve an already booked seat	Seat ID, time slot	Error: Seat already reserved	Pass
+TSC-004	Cancel seat reservation	Reservation ID	Reservation canceled; seat marked available	Pass
 
 ## 9. Challenges and Solutions
 

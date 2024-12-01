@@ -158,13 +158,40 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 - *Load Testing:* Simulating high traffic to ensure the system could handle peak usage.
 
 ---
+Sample test cases
+
+For TSC seat vacancy tracking:
+
 ![Screenshot (14)](https://github.com/user-attachments/assets/17708d34-3ad1-4991-843f-7d842e9035ae)
+
+ For library seat vacancy tracking:
+ 
+ Step-1
+ 
 ![Screenshot (17)](https://github.com/user-attachments/assets/3158e334-7204-4d18-8fae-010f4c6f0131)
+
+Step-2 
+
 ![Screenshot (18)](https://github.com/user-attachments/assets/bf4d28e8-6407-4d60-8592-2eac4dff9c47)
+
+Step-3
+
 ![Screenshot (19)](https://github.com/user-attachments/assets/106f0131-563c-4005-8bcd-9e63a8bf1b23)
+
+Step-4
+
 ![Screenshot (20)](https://github.com/user-attachments/assets/70784cb1-5730-4793-a852-f7a693b1507f)
+
+Step-5
+
 ![Screenshot (21)](https://github.com/user-attachments/assets/c7364e8e-206f-446c-a9f7-16e2059b5603)
+
+Step-6
+
 ![Screenshot (22)](https://github.com/user-attachments/assets/aaa2a614-f21b-4d5f-8273-d86dd991643c)
+
+Step-7
+
 ![Screenshot (23)](https://github.com/user-attachments/assets/e02ee4d4-8200-47ce-a2f5-5dab4856e260)
 
 

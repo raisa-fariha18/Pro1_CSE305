@@ -81,7 +81,7 @@ The project was developed using *Agile SDLC*, which follows an iterative and inc
 - *Adaptability:* The system design was flexible enough to accommodate changes in requirements based on stakeholder feedback after each iteration.
 - *Continuous Testing:* Testing was integrated into each sprint to ensure the functionality and quality of the system were up to standard.
   
-![WhatsApp Image 2024-12-01 at 10 40 11_e3166c54](https://github.com/user-attachments/assets/b0ab6b61-4605-45e7-8713-df7a6b65016c)
+
 *Agile Phases:*
 1. *Sprint Planning:* Defining the sprint goals and backlog based on user stories.
 2. *Design & Development:* The development team created the system incrementally.
@@ -92,6 +92,7 @@ The project was developed using *Agile SDLC*, which follows an iterative and inc
 ---
 ## 5. Design
 This diagram represents the structure and relationships of a library management system, detailing classes for users (students, faculty, and admin), books, and seats, along with their attributes and methods.
+
 ![Raisa](https://github.com/user-attachments/assets/8a0926f8-086b-4056-939c-b44156f79dec)
 
 ## 6. System Features and Functionalities
@@ -135,6 +136,7 @@ The following technologies were used in the development of the system:
 ---
 
 ## 8. Development Process
+![WhatsApp Image 2024-12-01 at 10 40 11_e3166c54](https://github.com/user-attachments/assets/b0ab6b61-4605-45e7-8713-df7a6b65016c)
 
 The development process followed the Agile methodology, with work divided into 3-week sprints. The major milestones of the project included:
 - *Sprint 1:* Requirements gathering and system design.

@@ -156,6 +156,7 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 - *Load Testing:* Simulating high traffic to ensure the system could handle peak usage.
 
 ---
+![Screenshot (14)](https://github.com/user-attachments/assets/17708d34-3ad1-4991-843f-7d842e9035ae)
 
 ## 10. Challenges and Solutions
 

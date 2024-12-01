@@ -79,6 +79,10 @@ The project was developed using *Agile SDLC*, which follows an iterative and inc
 - *Collaboration with Stakeholders:* Continuous feedback from stakeholders (students, faculty, and library staff) was incorporated during the development cycle.
 - *Adaptability:* The system design was flexible enough to accommodate changes in requirements based on stakeholder feedback after each iteration.
 - *Continuous Testing:* Testing was integrated into each sprint to ensure the functionality and quality of the system were up to standard.
+  
+<p align="center">
+  <img src="Agile method img.jpg" >
+</p>
 
 *Agile Phases:*
 1. *Sprint Planning:* Defining the sprint goals and backlog based on user stories.

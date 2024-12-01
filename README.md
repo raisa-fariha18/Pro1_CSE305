@@ -161,6 +161,8 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 ![Screenshot (18)](https://github.com/user-attachments/assets/bf4d28e8-6407-4d60-8592-2eac4dff9c47)
 ![Screenshot (19)](https://github.com/user-attachments/assets/106f0131-563c-4005-8bcd-9e63a8bf1b23)
 ![Screenshot (20)](https://github.com/user-attachments/assets/70784cb1-5730-4793-a852-f7a693b1507f)
+![Screenshot (21)](https://github.com/user-attachments/assets/c7364e8e-206f-446c-a9f7-16e2059b5603)
+
 
 
 

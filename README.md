@@ -34,13 +34,14 @@ Project Name: HSTU Library and TSC Seat Vacancy Tracking and Requisition System
 2. [Project Scope](#project-scope)
 3. [Objectives](#objectives)
 4. [Agile SDLC Approach](#agile-sdlc-approach)
-5. [System Features and Functionalities](#system-features-and-functionalities)
-6. [Technology Stack](#technology-stack)
-7. [Development Process](#development-process)
-8. [Testing](#testing)
-9. [Challenges and Solutions](#challenges-and-solutions)
-10. [Future Enhancements](#future-enhancements)
-11. [Conclusion](#conclusion)
+5. [Design](#design)
+6. [System Features and Functionalities](#system-features-and-functionalities)
+7. [Technology Stack](#technology-stack)
+8. [Development Process](#development-process)
+9. [Testing](#testing)
+10. [Challenges and Solutions](#challenges-and-solutions)
+11. [Future Enhancements](#future-enhancements)
+12. [Conclusion](#conclusion)
 
 ---
 
@@ -152,13 +153,6 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 - *Load Testing:* Simulating high traffic to ensure the system could handle peak usage.
 
 ---
-Test Cases
-1. TSC Seat Vacancy Tracking
-Test Case ID	Test Case Description	Input	Expected Output	Status (Pass/Fail)
-TSC-001	Check available seats	None	Display list of available seats	Pass
-TSC-002	Reserve a seat	Seat ID, time slot	Seat reserved successfully; confirmation displayed	Pass
-TSC-003	Reserve an already booked seat	Seat ID, time slot	Error: Seat already reserved	Pass
-TSC-004	Cancel seat reservation	Reservation ID	Reservation canceled; seat marked available	Pass
 
 ## 9. Challenges and Solutions
 

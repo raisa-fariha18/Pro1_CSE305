@@ -91,7 +91,7 @@ The project was developed using *Agile SDLC*, which follows an iterative and inc
 
 ---
 ## 5. Design
-
+This diagram represents the structure and relationships of a library management system, detailing classes for users (students, faculty, and admin), books, and seats, along with their attributes and methods.
 ![Raisa](https://github.com/user-attachments/assets/8a0926f8-086b-4056-939c-b44156f79dec)
 
 ## 6. System Features and Functionalities

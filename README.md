@@ -90,8 +90,11 @@ The project was developed using *Agile SDLC*, which follows an iterative and inc
 5. *Sprint Retrospective:* After each sprint, the team discussed improvements and lessons learned to make the next sprint more efficient.
 
 ---
+## 5. Design
 
-## 5. System Features and Functionalities
+![Raisa](https://github.com/user-attachments/assets/8a0926f8-086b-4056-939c-b44156f79dec)
+
+## 6. System Features and Functionalities
 
 The HSTU Library and TSC Seat Vacancy Tracking and Requisition System includes the following features:
 
@@ -113,7 +116,7 @@ The HSTU Library and TSC Seat Vacancy Tracking and Requisition System includes t
 
 ---
 
-## 6. Technology Stack
+## 7. Technology Stack
 
 The following technologies were used in the development of the system:
 - *Frontend:* 
@@ -131,7 +134,7 @@ The following technologies were used in the development of the system:
 
 ---
 
-## 7. Development Process
+## 8. Development Process
 
 The development process followed the Agile methodology, with work divided into 3-week sprints. The major milestones of the project included:
 - *Sprint 1:* Requirements gathering and system design.
@@ -144,7 +147,7 @@ Each sprint involved daily stand-up meetings, sprint reviews, and retrospectives
 
 ---
 
-## 8. Testing
+## 9. Testing
 
 Testing was an integral part of the Agile approach, performed iteratively in each sprint. The testing process included:
 - *Unit Testing:* Each feature was tested independently for correctness.
@@ -154,7 +157,7 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 
 ---
 
-## 9. Challenges and Solutions
+## 10. Challenges and Solutions
 
 ### Challenges:
 - *Real-time Seat Availability:* Synchronizing seat availability data across multiple users in real-time posed a challenge. The system had to ensure data consistency.
@@ -166,7 +169,7 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 
 ---
 
-## 10. Future Enhancements
+## 11. Future Enhancements
 
 - *Mobile App Development:* To enhance accessibility, a mobile app version of the system could be developed for easier access by students and faculty.
 - *AI Integration:* Using AI algorithms to suggest optimal seat reservations based on user patterns or busy times.
@@ -174,7 +177,7 @@ Testing was an integral part of the Agile approach, performed iteratively in eac
 
 ---
 
-## 11. Conclusion
+## 12. Conclusion
 
 The *HSTU Library and TSC Seat Vacancy Tracking and Requisition System* was successfully developed using the Agile SDLC methodology. The system allows students and faculty to track seat availability and manage library resources efficiently, enhancing the user experience and optimizing space utilization. The project demonstrates the power of Agile development to create flexible and adaptable software solutions.
 
